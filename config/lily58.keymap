@@ -46,7 +46,7 @@
 &kp F1      &kp F2            &kp F3        &kp F4          &kp F5           &kp F6                                      &kp F7          &kp F8            &kp F9          &kp F10         &kp F11            &kp F12
 &trans      &kp LEFT_BRACKET  &kp RBKT      &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans                                      &trans          &trans            &trans          &kp UP_ARROW    &trans             &kp EQUAL
 &kp LSHFT   &trans            &trans        &trans          &trans           &trans        &kp PAGE_UP    &kp PAGE_DOWN  &trans          &trans            &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW    &kp RSHFT
-                                            &trans          &kp LALT         &trans        &kp SPACE      &kp ENTER      &trans          &kp RALT          &trans
+                                            &trans          &kp LALT         &trans        &kp SPACE      &kp ENTER      &trans          &kp RALT          &mo 1
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
